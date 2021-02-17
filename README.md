@@ -1,1 +1,2 @@
-# COVID-19-Analysis-Quantiitative-Modelling-
+# COVID-19-Analysis-Quantitative-Modelling-
+
